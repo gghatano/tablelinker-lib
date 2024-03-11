@@ -7,7 +7,7 @@ TableLinker をコマンドライン / プログラム組み込みで利用す�
 Poetry を利用します。
 
 ```
-$ poetry install --with group=dev
+$ poetry install --with dev
 $ poetry shell
 ```
 
